@@ -52,5 +52,5 @@ Crescer como desenvolvedor, construir projetos cada vez mais profissionais e evo
 ## 📫 Contato
 
 📧 matheussato20052007@gmail.com
-📱 LinkedIn:(https://www.linkedin.com/in/matheus-sato-a7a88a387/)
+📱 LinkedIn:https://www.linkedin.com/in/matheus-sato-a7a88a387/
 🌐 Portfólio: Em breve...
