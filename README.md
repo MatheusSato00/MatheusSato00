@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Matheus Sato</h1>
 
-<!--
-**MatheusSato00/MatheusSato00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor em evolução • Front-End • JavaScript
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um desenvolvedor em constante evolução, focado em criar interfaces interativas, experiências visuais e transformar ideias em projetos reais.
+
+Atualmente estudando:
+
+- ⚡ JavaScript
+- 🎨 HTML & CSS
+- 🔥 DOM
+- 🧠 Lógica de Programação
+- ⛓️ Blockchain
+
+---
+
+## 💻 Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div>
+  <a href="https://github.com/SEUUSER">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Evoluir constantemente como desenvolvedor e construir projetos cada vez mais profissionais.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSER&color=blue" alt="Profile views"/>
+</p>
+
+## 📫 Contato
+
+📧 SeuEmail@email.com  
+📱 LinkedIn: seu-linkedin  
+🌐 Portfólio: Em breve...
