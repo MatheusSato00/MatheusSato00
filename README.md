@@ -1,8 +1,11 @@
 <h1 align="center">⚡ Matheus Sato</h1>
 
 <p align="center">
-  <strong>Front-End Developer em evolução</strong><br>
-  Construindo ideias através do código.
+  <strong>Front-End Developer em evolução</strong>
+</p>
+
+<p align="center">
+  Construindo ideias através do código 🚀
 </p>
 
 <p align="center">
@@ -13,50 +16,37 @@
 
 ## 👨‍💻 Sobre mim
 
-```js
-const matheus = {
-  foco: "Front-End Development",
-  estudando: ["JavaScript", "HTML", "CSS", "DOM", "Blockchain"],
-  objetivo: "Transformar ideias em projetos reais",
-  status: "Evoluindo 1% todos os dias 🚀"
-}
-Atualmente estudando:
+Sou um desenvolvedor em constante evolução, apaixonado por tecnologia e criação de projetos interativos.
 
-- ⚡ JavaScript
-- 🎨 HTML & CSS
-- 🔥 DOM
-- 🧠 Lógica de Programação
-- ⛓️ Blockchain
+💻 Atualmente estudando **JavaScript, HTML, CSS, DOM e Blockchain**  
+🚀 Focado em evoluir no desenvolvimento **Front-End**  
+🎯 Transformando ideias em projetos reais
 
 ---
 
-## 💻 Stack
+## 🚀 Atualmente
 
-<div align="left">
+- ⚡ Aprendendo JavaScript e manipulação do DOM  
+- 🎨 Criando interfaces modernas e interativas  
+- 🔥 Evoluindo minhas habilidades em programação  
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div>
-  <a href="https://github.com/SEUUSER">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 🎯 Objetivo
-
-Evoluir constantemente como desenvolvedor e construir projetos cada vez mais profissionais.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSER&color=blue" alt="Profile views"/>
 </p>
 
+---
+
+## 📌 Objetivo
+
+Crescer como desenvolvedor, construir projetos cada vez mais profissionais e evoluir constantemente através do código.
+
+<p align="center">
+  <i>“Evoluindo 1% todos os dias.”</i>
+</p>
 ## 📫 Contato
 
 📧 matheussato20052007@gmail.com
