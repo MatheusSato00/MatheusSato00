@@ -1,15 +1,25 @@
-<h1 align="center">👨‍💻 Matheus Sato</h1>
+<h1 align="center">⚡ Matheus Sato</h1>
 
 <p align="center">
-  Desenvolvedor em evolução • Front-End • JavaScript
+  <strong>Front-End Developer em evolução</strong><br>
+  Construindo ideias através do código.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante evolução, focado em criar interfaces interativas, experiências visuais e transformar ideias em projetos reais.
-
+```js
+const matheus = {
+  foco: "Front-End Development",
+  estudando: ["JavaScript", "HTML", "CSS", "DOM", "Blockchain"],
+  objetivo: "Transformar ideias em projetos reais",
+  status: "Evoluindo 1% todos os dias 🚀"
+}
 Atualmente estudando:
 
 - ⚡ JavaScript
